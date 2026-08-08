@@ -26,8 +26,6 @@ There is also a graphical glitch that can occasionally cause the Wii to freeze o
 
 ## Credits
 
-PAPwiiUM Wii build and port work: Genesis64X
-
 Based on Genesis Plus GX by ekeeke  
 https://github.com/ekeeke/genesis-plus-gx
 
