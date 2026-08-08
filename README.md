@@ -4,7 +4,7 @@ G64X_PAPwiiUM is a Wii-focused build of the standalone Genesis Plus GX frontend 
 
 To install it, back up your original boot.dol inside apps/genplus-gx, then replace the boot.dol with the one included here.
 
-Place `paprium.bin` and `paprium` music folderin your `genplus/roms` folder on the Wii SD card.
+Place `paprium.bin` and `paprium` music folders in your `genplus/roms` folder on the Wii SD card.
 
 ## Notes
 
