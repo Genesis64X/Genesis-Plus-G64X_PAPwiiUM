@@ -2,13 +2,13 @@
 
 G64X_PAPwiiUM is a Wii-focused build of the standalone Genesis Plus GX frontend by ekeeke, based on pav1388's Genesis-Plus-GX-PUNCHiUM fork.
 
-To install it, replace the `boot.dol` inside your `apps/genplus-gx` folder with the one included here. Make a backup of your original `boot.dol` first.
+To install it, back up your original boot.dol inside apps/genplus-gx, then replace the boot.dol with the one included here.
 
-Place `paprium.bin` in your `genplus/roms` folder on the Wii SD card.
-
-Then place the `paprium` music folder in that same `genplus/roms` folder.
+Place `paprium.bin` and `paprium` music folderin your `genplus/roms` folder on the Wii SD card.
 
 ## Notes
+
+Keep in mind that PAPwiiUM is based on ekeeke's official Genesis Plus GX 1.7.5 Wii build, so it should still play everything you were already playing just fine. Nothing has been removed or replaced. This build simply adds support for PAPRIUM.
 
 This is still a beta build, so a few bugs and glitches remain.
 
