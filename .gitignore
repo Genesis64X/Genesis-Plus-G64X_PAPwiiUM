@@ -1,0 +1,16 @@
+# Build output
+output/
+
+# Shared checkout / incremental objects
+G64X_SHARED_WORK/
+work/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
