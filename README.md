@@ -10,7 +10,7 @@ Place `paprium.bin` and `paprium` music folderin your `genplus/roms` folder on t
 
 Keep in mind that PAPwiiUM is based on ekeeke's official Genesis Plus GX 1.7.5 Wii build, so it should still play everything you were already playing just fine. Nothing has been removed or replaced. This build simply adds support for PAPRIUM.
 
-This is still a beta build, so a few bugs and glitches remain.
+This is still a beta build, so a few bugs and glitches remain for Paprium game only.
 
 For now, I am using WAV files only. MP3 support has been disabled because it introduced additional glitches, longer loading times, and higher RAM usage.
 
